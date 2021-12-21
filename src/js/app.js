@@ -1,5 +1,6 @@
 import "../scss/app.scss";
 
 window.addEventListener("DOMContentLoaded", () => {
-  // This block will be executed once the page is loaded and ready
+  const fire = document.querySelectorAll(".hot");
+  console.log(fire);
 });
